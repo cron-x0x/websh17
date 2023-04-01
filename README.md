@@ -1,2 +1,2 @@
 # websh17
-Websec, javascript, 
+Websec, javascript, :smile:
